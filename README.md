@@ -20,8 +20,7 @@
 
 ## 🎥 Video Demo
 
-<video controls src="docs/video-demo.mp4" title="#"></video>
-
+[![Watch the demo](https://img.shields.io/badge/▶-Watch%20the%20Demo-black?style=for-the-badge)](https://youtu.be/qMzHwVxzc-0)
 ---
 
 ## 🧱 Architecture
